@@ -5,7 +5,7 @@
 Its really hard to get accustomed to something new and what is more embarassing than messing everything up while working on a team?
 
 Github is one of the primary tool that we use while working as a team and making collabrations.
-We wanted to simplify the way new open-source contributors learn & contribute for the first time.
+We wanted to make all of our budding developers learn & contribute for the first time.
 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This tutorial aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
