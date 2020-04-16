@@ -1,6 +1,6 @@
 # Hola Contributors
 
-This will be your first commit to SWC Github hope you are all set to pet the Octocat:)
+This will be your first commit to SWC Github hope you are all set to pet the Octocat:smile:
 Introduce Yourself here, Tell us about your speciallity, what framework you would like to take up first project on.
 
 ### Sample
