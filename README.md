@@ -1,4 +1,4 @@
-[<img align="centre" width="100%" src="assets/icon1.png">]
+[<img align="centre" width="100%" src="assets/icon1.jpeg">]
 
 # First Contributions
 
