@@ -3,6 +3,7 @@
 # First Contributions
 
 Its really hard to get accustomed to something new and what is more embarassing than messing everything up while working on a team?
+
 Github is one of the primary tool that we use while working as a team and making collabrations.
 We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
@@ -96,8 +97,9 @@ Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Congratulations, You have successfully made your first contribution.
+Congratulations, You have successfully submitted your first contribution.
 
 We will be analysing your details and assign you projects accordingly.
 Once your pull request is accepted, you will be receiving a mail containing the details of your project and discord invitation.
+
 Stay Safe....
