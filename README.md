@@ -2,7 +2,7 @@
 
 # First Contributions
 
-Its really hard to get accustomed to something new and what is more embarassing than messing everything up while working on a team?
+How can we be locked down when we have an infinite things to learn. We will make our first imprint in "Build From Home" module by coping up with github.
 
 Github is one of the primary tool that we use while working as a team and making collabrations.
 We wanted to make all of our budding developers learn & contribute for the first time.
