@@ -1,9 +1,9 @@
-[<img align="right" width="150" src="assets/discord.png">]()
+[<img align="centre" width="100%" src="assets/icon1.png">]
 
 # First Contributions
 
-It's hard. It's always hard the first time you do something. Especially when you are collaborating, making mistakes isn't a comfortable thing. We wanted to simplify the way new open-source contributors learn & contribute for the first time.
-
+Its really hard to get accustomed to something new and what is more embarassing than messing everything up while working on a team?
+The primary component that SWC use while developing a project 
 Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 
