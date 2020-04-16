@@ -3,9 +3,10 @@
 # First Contributions
 
 Its really hard to get accustomed to something new and what is more embarassing than messing everything up while working on a team?
-The primary component that SWC use while developing a project 
-Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This project aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Github is one of the primary tool that we use while working as a team and making collabrations.
+We wanted to simplify the way new open-source contributors learn & contribute for the first time.
 
+Reading articles & watching tutorials can help, but what's better than actually doing the stuff in a practice environment? This tutorial aims at providing guidance & simplifying the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
 <img align="right" width="300" src="assets/fork.png" alt="fork this repository" />
 
@@ -57,7 +58,7 @@ git checkout -b add-alonzo-church
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `swc_team.md` file in a text editor, add all the details as per the sample provided in file. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
@@ -68,12 +69,12 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add swc_team.md
 ```
 
 Now commit those changes using the `git commit` command:
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Uploaded <your-name>'s details to swc_team list"
 ```
 replacing `<your-name>` with your name.
 
@@ -95,4 +96,8 @@ Now submit the pull request.
 
 <img style="float: right;" src="assets/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Congratulations, You have successfully made your first contribution.
+
+We will be analysing your details and assign you projects accordingly.
+Once your pull request is accepted, you will be receiving a mail containing the details of your project and discord invitation.
+Stay Safe....
