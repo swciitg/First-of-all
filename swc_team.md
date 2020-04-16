@@ -6,5 +6,5 @@ Introduce Yourself here, Tell us about your speciallity, what framework you woul
 ### Sample
 
 1. [Shubham Gandhi](https://github.com/aiBotShubham)
-   - *Frameworks* NodeJs, HTML, CSS, React
-   - *email* gandhi18@iitg.ac.in
+   - *Frameworks* : NodeJs, HTML, CSS, React
+   - *email* : gandhi18@iitg.ac.in
