@@ -55,3 +55,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
 
+13. [Sachit Kalia](https://github.com/Sachit-Kalia)
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript
+   -*email* : bornon1999@gmail.com
