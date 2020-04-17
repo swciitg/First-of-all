@@ -37,4 +37,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML , CSS , JS , Django
    - *email* : samaksh@iitg.ac.in
 
+9. [Amey Rambatla](https://github.com/Ameybot)
+   - *Frameworks* : Django, HTML, CSS, Ruby
+   - *email* : ameyramesh@iitg.ac.in
+   - *speciality* : Fluent in Python, C++ & Java
 
