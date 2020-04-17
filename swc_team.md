@@ -9,3 +9,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 1. [Shubham Gandhi](https://github.com/aiBotShubham)
    - *Frameworks* : NodeJs, HTML, CSS, React
    - *email* : gandhi18@iitg.ac.in
+
+   [Amey Varhade](httpa://github.com/yemaedahrav)
+   - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
+   - *email* : varhade@iitg.ac.in
