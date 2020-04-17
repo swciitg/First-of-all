@@ -42,6 +42,19 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ameyramesh@iitg.ac.in
    - *speciality* : Fluent in Python, C++ & Java
 
-10.[Anket Kotkar](https://github.com/ask7276)
+10. [Satyendra Dhaka](https://github.com/satyendradhaka)
+   - *Frameworks* : Express, NodeJs, HTML, CSS, JavaScript
+   - *Libraries* : Bootstrap, Jquery
+   - *email* : satyendr@iitg.ac.in
+
+11. [Amey Varhade](httpa://github.com/yemaedahrav)
+   - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
+   - *email* : varhade@iitg.ac.in
+
+12. [Ritvika Nandi](https://github.com/ritvikanandi)
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript
+   - *email* : ritvika@iitg.ac.in
+
+13.[Anket Kotkar](https://github.com/ask7276)
    - *Frameworks* : Django, HTML, CSS, JS(learning)
    - *email* : anket@iitg.ac.in
