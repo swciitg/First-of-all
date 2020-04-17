@@ -48,7 +48,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries* : Bootstrap, Jquery
    - *email* : satyendr@iitg.ac.in
 
-* [Amey Varhade](httpa://github.com/yemaedahrav)
+* [Amey Varhade](https://github.com/yemaedahrav)
    - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
    - *email* : varhade@iitg.ac.in
 
