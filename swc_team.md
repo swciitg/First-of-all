@@ -75,4 +75,4 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    
 * [Sachit Kalia](https://github.com/Sachit-Kalia)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
-   -*email* : bornon1999@gmail.com
+   - *email* : bornon1999@gmail.com
