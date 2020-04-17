@@ -73,3 +73,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
    
+17. [Sachit Kalia](https://github.com/Sachit-Kalia)
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript
+   -*email* : bornon1999@gmail.com
