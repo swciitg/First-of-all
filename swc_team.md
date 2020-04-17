@@ -42,3 +42,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ameyramesh@iitg.ac.in
    - *speciality* : Fluent in Python, C++ & Java
 
+10.[Anket Kotkar](https://github.com/ask7276)
+   - *Frameworks* : Django, HTML, CSS, JS(learning)
+   - *email* : anket@iitg.ac.in
