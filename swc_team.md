@@ -54,9 +54,15 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 12. [Ritvika Nandi](https://github.com/ritvikanandi)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
+   
+13. [Shital Nandan](https://github.com/Shital102)
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript, django
+   - *email* : shital@iitg.ac.in
 
-13. [Sanjit Sahu](https://github.com/sanjit30)
+14. [Sanjit Sahu](https://github.com/sanjit30)
    - *Frameworks* : HTML, CSS, JS, Django
    - *email*      : sanjit18@iitg.ac.in
 
-   
+15.[Anket Kotkar](https://github.com/ask7276)
+   - *Frameworks* : Django, HTML, CSS, JS(learning)
+   - *email* : anket@iitg.ac.in
