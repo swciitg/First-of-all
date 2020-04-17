@@ -73,6 +73,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Anket Kotkar](https://github.com/ask7276)
    - *Frameworks* : Django, HTML, CSS, JS(learning)
    - *email* : anket@iitg.ac.in
+
+* [Ashish Vardhan](https://github.com/walkingn8mare)
+   - *Frameworks* : HTML, CSS, JS(learning)
+   - *email* : anket@iitg.ac.in 
+   - *Languages* : C++, Java 
    
 * [Srichandan Dash](https://github.comscdchandan)
    - *Libraries* : Bootstrap, Jquery
@@ -82,3 +87,4 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Sachit Kalia](https://github.com/Sachit-Kalia)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : bornon1999@gmail.com
+
