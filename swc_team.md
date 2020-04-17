@@ -76,7 +76,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 * [Ashish Vardhan](https://github.com/walkingn8mare)
    - *Frameworks* : HTML, CSS, JS(learning)
-   - *email* : anket@iitg.ac.in 
+   - *email* : ashish18a@iitg.ac.in 
    - *Languages* : C++, Java 
    
 * [Srichandan Dash](https://github.comscdchandan)
