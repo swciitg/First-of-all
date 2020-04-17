@@ -42,3 +42,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ameyramesh@iitg.ac.in
    - *speciality* : Fluent in Python, C++ & Java
 
+10. [Satyendra Dhaka](https://github.com/satyendradhaka)
+   - *Frameworks* : Express, NodeJs, HTML, CSS, JavaScript
+   - *Libraries: Bootstrap, Jquery
+   - *email* : satyendr@iitg.ac.in
+
