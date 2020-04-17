@@ -33,3 +33,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Languages* : C, C++, Python(ML)
    - *email* : agarwal18d@iitg.ac.in
 
+8. [Samaksh Tak](https://github.com/samaksh1)
+   - *Frameworks* : HTML , CSS , JS , Django
+   - *email* : samaksh@iitg.ac.in
+
+
