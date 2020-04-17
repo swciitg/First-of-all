@@ -9,6 +9,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML, CSS, React
    - *email* : gandhi18@iitg.ac.in
 
+<!--sample is shown above -->
+
 * [Panindra reddy](https://github.com/panindra-ai)
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
