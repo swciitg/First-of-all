@@ -66,3 +66,9 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 15.[Anket Kotkar](https://github.com/ask7276)
    - *Frameworks* : Django, HTML, CSS, JS(learning)
    - *email* : anket@iitg.ac.in
+   
+16. [Srichandan Dash](https://github.comscdchandan)
+   - *Libraries* : Bootstrap, Jquery
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
+   - *email* :srichand@iitg.ac.in
+   
