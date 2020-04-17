@@ -50,3 +50,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 11. [Amey Varhade](httpa://github.com/yemaedahrav)
    - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
    - *email* : varhade@iitg.ac.in
+
+12. [Ritvika Nandi](https://github.com/ritvikanandi)
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript
+   - *email* : ritvika@iitg.ac.in
+
