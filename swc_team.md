@@ -83,6 +83,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
+   
+* [LOKNATH KUMAR](https://github.com/aiBotShubham)
+   - *Frameworks* : Django, HTML, CSS, React
+   - *email* : loknath@iitg.ac.in
 
 * [Sachit Kalia](https://github.com/Sachit-Kalia)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
