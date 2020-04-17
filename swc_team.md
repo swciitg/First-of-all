@@ -18,3 +18,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Flutter , Dart ,Javascript
    - *email* : anjali18a@iitg.ac.in
 
+4. [Prathapani Sravya](https://github.com/sravya27082001)
+   - *Frameworks* :HTML, CSS, Django
+   - *email* : prathapa@iitg.ac.in
