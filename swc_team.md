@@ -6,6 +6,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 
 1. [Sushanth Reddy Manda](https://github.com/SushanthReddyManda)
-   - *Frameworks* :  HTML, CSS, JavaScript, Django(now learning)
+   - *Frameworks* :  HTML, CSS, JavaScript, Django(learning)
    - *Libraries* : Bootstrap, jQuery
    - *email* : m.sushanth@iitg.ac.in
