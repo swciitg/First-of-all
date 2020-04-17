@@ -21,3 +21,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 4. [Prathapani Sravya](https://github.com/sravya27082001)
    - *Frameworks* :HTML, CSS, Django
    - *email* : prathapa@iitg.ac.in
+
+5. [Pranjal Chourasia](https://github.com/pranjal5399)
+   - *Frameworks* : NodeJs, HTML, CSS, JavaScript
+   - *email* : chourasi@iitg.ac.in
