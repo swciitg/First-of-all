@@ -11,7 +11,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 2. [Panindra reddy](https://github.com/panindra-ai)
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
-   
+
 3. [Anjali Soni](https://github.com/anjalisoni3655)
    - *Frameworks* : HTML, CSS, Flutter , Dart ,Javascript
    - *email* : anjali18a@iitg.ac.in
@@ -55,3 +55,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
 
+13. [Sanjit Sahu](https://github.com/sanjit30)
+   - *Frameworks* : HTML, CSS, JS, Django
+   - *email*      : sanjit18@iitg.ac.in
+
+   
