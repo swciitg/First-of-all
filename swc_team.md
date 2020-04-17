@@ -57,7 +57,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Ritvika Nandi](https://github.com/ritvikanandi)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
-   
+
 * [Shital Nandan](https://github.com/Shital102)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, django
    - *email* : shital@iitg.ac.in
@@ -69,12 +69,17 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Anket Kotkar](https://github.com/ask7276)
    - *Frameworks* : Django, HTML, CSS, JS(learning)
    - *email* : anket@iitg.ac.in
-   
+
 * [Srichandan Dash](https://github.comscdchandan)
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
-   
+
 * [Sachit Kalia](https://github.com/Sachit-Kalia)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : bornon1999@gmail.com
+
+* [Abbas Tailor](https://github.com/taylor-abbas)
+   - *Frameworks* : HTML , CSS (Basic) , JavaScript (Basic) , Bootstrap , Django (Learning)
+   - *Languages* : Fluent in Python, Novice in C++ & Introductory Java.
+   - *email* : t.abbas@iitg.ac.in
