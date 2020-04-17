@@ -11,6 +11,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 <!--sample is shown above -->
 
+* [Ripunjoy Medhi](https://github.com/ripun170107053)
+   - *Frameworks* : Django,HTML,JS,CSS
+   - *email* : ripun170107053@iitg.ac.in
+   
 * [Panindra reddy](https://github.com/panindra-ai)
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
@@ -70,6 +74,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Django, HTML, CSS, JS(learning)
    - *email* : anket@iitg.ac.in
 
+* [Ashish Vardhan](https://github.com/walkingn8mare)
+   - *Frameworks* : HTML, CSS, JS(learning)
+   - *email* : anket@iitg.ac.in 
+   - *Languages* : C++, Java 
+   
 * [Srichandan Dash](https://github.comscdchandan)
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
@@ -83,3 +92,4 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML , CSS (Basic) , JavaScript (Basic) , Bootstrap , Django (Learning)
    - *Languages* : Fluent in Python, Novice in C++ & Introductory Java.
    - *email* : t.abbas@iitg.ac.in
+
