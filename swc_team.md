@@ -44,7 +44,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 10. [Satyendra Dhaka](https://github.com/satyendradhaka)
    - *Frameworks* : Express, NodeJs, HTML, CSS, JavaScript
-   - *Libraries: Bootstrap, Jquery
+   - *Libraries* : Bootstrap, Jquery
    - *email* : satyendr@iitg.ac.in
 
 11. [Amey Varhade](httpa://github.com/yemaedahrav)
