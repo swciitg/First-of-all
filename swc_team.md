@@ -29,3 +29,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries* : Bootstrap, jQuery
    - *email* : m.sushanth@iitg.ac.in
 
+7. [Kunal Agarwal](https://github.com/kunalagarwal101)
+   - *Languages* : C, C++, Python(ML)
+   - *email* : agarwal18d@iitg.ac.in
+
