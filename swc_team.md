@@ -11,7 +11,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 2. [Panindra reddy](https://github.com/panindra-ai)
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
-   
+
 3. [Anjali Soni](https://github.com/anjalisoni3655)
    - *Frameworks* : HTML, CSS, Flutter , Dart ,Javascript
    - *email* : anjali18a@iitg.ac.in
@@ -54,9 +54,21 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 12. [Ritvika Nandi](https://github.com/ritvikanandi)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
-  
-13. [Srichandan Dash](https://github.comscdchandan)
+   
+13. [Shital Nandan](https://github.com/Shital102)
+   - *Frameworks* : NodeJs, HTML , CSS , JavaScript, django
+   - *email* : shital@iitg.ac.in
+
+14. [Sanjit Sahu](https://github.com/sanjit30)
+   - *Frameworks* : HTML, CSS, JS, Django
+   - *email*      : sanjit18@iitg.ac.in
+
+15.[Anket Kotkar](https://github.com/ask7276)
+   - *Frameworks* : Django, HTML, CSS, JS(learning)
+   - *email* : anket@iitg.ac.in
+   
+16. [Srichandan Dash](https://github.comscdchandan)
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
-
+   
