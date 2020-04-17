@@ -6,6 +6,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 ### Sample
 
-1. [Shubham Gandhi](https://github.com/aiBotShubham)
-   - *Frameworks* : NodeJs, HTML, CSS, React
-   - *email* : gandhi18@iitg.ac.in
+1. [LOKNATH KUMAR](https://github.com/aiBotShubham)
+   - *Frameworks* : Django, HTML, CSS, React
+   - *email* : loknath@iitg.ac.in
