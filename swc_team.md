@@ -6,6 +6,22 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 ### Sample
 
-1. [Pranjal Chourasia](https://github.com/pranjal5399)
+1. [Shubham Gandhi](https://github.com/aiBotShubham)
+   - *Frameworks* : NodeJs, HTML, CSS, React
+   - *email* : gandhi18@iitg.ac.in
+
+2. [Panindra reddy](https://github.com/panindra-ai)
+   - *Frameworks* : HTML,CSS,JS,Django
+   - *email* : vajrala@iitg.ac.in
+   
+3. [Anjali Soni](https://github.com/anjalisoni3655)
+   - *Frameworks* : HTML, CSS, Flutter , Dart ,Javascript
+   - *email* : anjali18a@iitg.ac.in
+
+4. [Prathapani Sravya](https://github.com/sravya27082001)
+   - *Frameworks* :HTML, CSS, Django
+   - *email* : prathapa@iitg.ac.in
+
+5. [Pranjal Chourasia](https://github.com/pranjal5399)
    - *Frameworks* : NodeJs, HTML, CSS, JavaScript
    - *email* : chourasi@iitg.ac.in
