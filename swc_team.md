@@ -4,8 +4,7 @@ This will be your first commit to SWC Github hope you are all set to pet the Oct
 
 Introduce Yourself here, Tell us about your speciality, what framework you would like to take up first project on.
 
-### Sample
-
-1. [Shubham Gandhi](https://github.com/aiBotShubham)
-   - *Frameworks* : NodeJs, HTML, CSS, React
-   - *email* : gandhi18@iitg.ac.in
+[Amey Rambatla](https://github.com/Ameybot)
+*Frameworks* : Django, HTML, CSS, Ruby
+*email* : ameyramesh@iitg.ac.in
+*speciality* : Fluent in Python, C++ & Java
