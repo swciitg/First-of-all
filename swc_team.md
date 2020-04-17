@@ -11,6 +11,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 <!--sample is shown above -->
 
+* [Ripunjoy Medhi](https://github.com/ripun170107053)
+   - *Frameworks* : Django,HTML,JS,CSS
+   - *email* : ripun170107053@iitg.ac.in
+   
 * [Panindra reddy](https://github.com/panindra-ai)
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
