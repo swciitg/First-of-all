@@ -117,3 +117,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Chelsi Rawat](https://github.com/chelsi-001011)
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
    - *email* : crawat@iitg.ac.in
+* [Kousik Rajesh](https://github.com/kousikr26)
+   - *Frameworks* : Django, HTML, CSS, JS
+   - *email* : kousik18@iitg.ac.in
+
