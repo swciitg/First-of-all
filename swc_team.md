@@ -107,5 +107,5 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : saketkumar@iitg.ac.in
 
 * [Gaurav Mali](https://github.com/gaurav7147)
-   -*Frameworks* : HTML, CSS, JS, Django
-   -*email* : mali18@iitg.ac.in
+   - *Frameworks* : HTML, CSS, JS, Django
+   - *email* : mali18@iitg.ac.in
