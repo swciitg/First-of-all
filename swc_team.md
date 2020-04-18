@@ -109,3 +109,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Gaurav Mali](https://github.com/gaurav7147)
    - *Frameworks* : HTML, CSS, JS, Django
    - *email* : mali18@iitg.ac.in
+
+* [Upender Dahiya](https://github.com/Dahiya27)
+   - *Frameworks* : HTML, CSS, JS, Django(Learning)
+   - *email* : udahiya@iitg.ac.in
