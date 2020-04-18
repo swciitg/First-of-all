@@ -1,5 +1,5 @@
-<img align="centre" width="100%" src="assets/icon1.jpeg">
-[![Join Us On Discord](assets/discord.png)](https://discord.gg/HCdctrz)
+<!-- <img align="centre" width="100%" src="assets/icon1.jpeg"> -->
+[<img align="right" width="150" src="assets/discord.png">](https://discord.gg/HCdctrz)
 
 # First Contributions
 
