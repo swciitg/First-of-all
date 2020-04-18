@@ -113,3 +113,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Upender Dahiya](https://github.com/Dahiya27)
    - *Frameworks* : HTML, CSS, JS, Django(Learning)
    - *email* : udahiya@iitg.ac.in
+
+* [Chelsi Rawat](https://github.com/chelsi-001011)
+   - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
+   - *email* : crawat@iitg.ac.in
