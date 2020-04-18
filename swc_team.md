@@ -13,11 +13,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Shashwat Sharma](https://github.com/Svanazar)
    - *Frameworks* : NodeJs, HTML, CSS, React(just started)
    - *email* : shashwat.sharma@iitg.ac.in
-   
+
 * [Ripunjoy Medhi](https://github.com/ripun170107053)
    - *Frameworks* : Django,HTML,JS,CSS
    - *email* : ripun170107053@iitg.ac.in
-   
+
 * [Panindra reddy](https://github.com/panindra-ai)
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
@@ -79,14 +79,14 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 * [Ashish Vardhan](https://github.com/walkingn8mare)
    - *Frameworks* : HTML, CSS, JS(learning)
-   - *email* : ashish18a@iitg.ac.in 
-   - *Languages* : C++, Java 
-   
+   - *email* : ashish18a@iitg.ac.in
+   - *Languages* : C++, Java
+
 * [Srichandan Dash](https://github.comscdchandan)
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
-   
+
 * [LOKNATH KUMAR](https://github.com/LOkn7630)
    - *Frameworks* : Django, HTML, CSS, React
    - *email* : loknath@iitg.ac.in
@@ -99,7 +99,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML , CSS (Basic) , JavaScript (Basic) , Bootstrap , Django (Learning)
    - *Languages* : Fluent in Python, Novice in C++ & Introductory Java.
    - *email* : t.abbas@iitg.ac.in
-   
+
 * [Saket Kumar Singh](https://github.com/sksingh1202)
    - *Languages* : HTML, CSS, JavaScript, Python
    - *Libraries* : Bootstrap, Jquery (learning)
@@ -117,3 +117,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Chelsi Rawat](https://github.com/chelsi-001011)
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
    - *email* : crawat@iitg.ac.in
+
+   * [Stuti](https://github.com/stusat)
+   - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
+   - *email* : stuti@iitg.ac.in
