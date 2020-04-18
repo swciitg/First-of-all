@@ -10,7 +10,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : gandhi18@iitg.ac.in
 
 <!--sample is shown above -->
-
+* [Shashwat Sharma](https://github.com/Svanazar)
+   - *Frameworks* : NodeJs, HTML, CSS, React(just started)
+   - *email* : shashwat.sharma@iitg.ac.in
+   
 * [Ripunjoy Medhi](https://github.com/ripun170107053)
    - *Frameworks* : Django,HTML,JS,CSS
    - *email* : ripun170107053@iitg.ac.in
