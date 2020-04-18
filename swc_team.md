@@ -96,8 +96,13 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML , CSS (Basic) , JavaScript (Basic) , Bootstrap , Django (Learning)
    - *Languages* : Fluent in Python, Novice in C++ & Introductory Java.
    - *email* : t.abbas@iitg.ac.in
+   
+* [Saket Kumar Singh](https://github.com/sksingh1202)
+   - *Languages* : HTML, CSS, JavaScript, Python
+   - *Libraries* : Bootstrap, Jquery (learning)
+   - *Frameworks* : Django (learning)
+   - *email* : saketkumar@iitg.ac.in
 
 * [Gaurav Mali](https://github.com/gaurav7147)
    -*Frameworks* : HTML, CSS, JS, Django
    -*email* : mali18@iitg.ac.in
-
