@@ -1,4 +1,4 @@
-<!-- <img align="centre" width="100%" src="assets/icon1.jpeg"> -->
+<img align="centre" width="100%" src="assets/icon1.jpeg">
 [<img align="right" width="150" src="assets/discord.png">](https://discord.gg/HCdctrz)
 
 # First Contributions
