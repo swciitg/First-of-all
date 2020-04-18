@@ -79,5 +79,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : bornon1999@gmail.com
    
+   * [Meka Chandrahaas Pavan Surya](https://github.com/chp2000)
+   - *Frameworks*: HTML , CSS , JavaScript, django(learning)
+   - *Libraries* : Bootstrap, Jquery
+   - *email*  : chandrah@iitg.ac.in
+   
 
    
