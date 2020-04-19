@@ -138,3 +138,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Sreshth Aggarwal](https://github.com/Sreshth01)
    - *Frameworks* : HTML, CSS, JavaScript, Bootstrap, Django
    - *email* : sreshth2001@gmail.com
+
+* [Naman Goyal](https://github.com/Whistler27)
+   - *Frameworks* : Django, HTML, CSS, PHP, Bootstrap, JS(will learn)
+   - *email* : naman18@iitg.ac.in
+
