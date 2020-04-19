@@ -150,4 +150,4 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Yug Kansara](https://github.com/ullsee)
    - *Frameworks* : HTML, CSS, JavaScript, NodeJS(learning)
    - *Libraries* : Bootstrap, jQuery
-   - *email* : yug@iitg.ac.in   
+   - *email* : yug@iitg.ac.in  
