@@ -132,8 +132,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : somya18@iitg.ac.in
 
  * [Stuti](https://github.com/stusat)
- - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
- - *email* : stuti@iitg.ac.in
+    - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
+    - *email* : stuti@iitg.ac.in
 
 * [Sreshth Aggarwal](https://github.com/Sreshth01)
    - *Frameworks* : HTML, CSS, JavaScript, Bootstrap, Django
@@ -142,4 +142,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Naman Goyal](https://github.com/Whistler27)
    - *Frameworks* : Django, HTML, CSS, PHP, Bootstrap, JS(will learn)
    - *email* : naman18@iitg.ac.in
+
+* [Harsh Jaiswal](https://github.com/BlAckbURn07)
+   - *Frameworks* : C,C++,Python(basic),Android studio(just started)
+   - *email* : harsh.jaiswal@iitg.ac.in
 
