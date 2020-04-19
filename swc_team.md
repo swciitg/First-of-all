@@ -164,6 +164,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Sumit Kumar Singh](https://github.com/sksb2180)
    - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
    - *email* : sksb2180@gmail.com
+
 * [Manish Kumar](https://github.com/bangarwa18)
     - *Frameworks* : HTML, CSS, Bootstrap, Django, Javascript
     - *email* : bangarwa18@iitg.ac.in
