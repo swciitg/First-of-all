@@ -10,7 +10,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : gandhi18@iitg.ac.in
 
 <!--sample is shown above -->
-* [Shashwat Sharma](https://github.com/Svanazar)
+* [Shashwat Sharma](https://github.com/Svanazar)   <!--Workin on : swc-courses-->
    - *Frameworks* : NodeJs, HTML, CSS, React(just started)
    - *email* : shashwat.sharma@iitg.ac.in
 
@@ -52,7 +52,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ameyramesh@iitg.ac.in
    - *speciality* : Fluent in Python, C++ & Java
 
-* [Satyendra Dhaka](https://github.com/satyendradhaka)
+* [Satyendra Dhaka](https://github.com/satyendradhaka)   <!--Working on : swc-courses-->
    - *Frameworks* : Express, NodeJs, HTML, CSS, JavaScript
    - *Libraries* : Bootstrap, Jquery
    - *email* : satyendr@iitg.ac.in
@@ -61,7 +61,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
    - *email* : varhade@iitg.ac.in
 
-* [Ritvika Nandi](https://github.com/ritvikanandi)
+* [Ritvika Nandi](https://github.com/ritvikanandi)    <!--Working on : swc-courses-->
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
 
@@ -117,7 +117,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Chelsi Rawat](https://github.com/chelsi-001011)
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
    - *email* : crawat@iitg.ac.in
-
 
 * [Jayant Jaiswal](https://github.com/jayantjaiswal100)
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, django(learning), jquery
