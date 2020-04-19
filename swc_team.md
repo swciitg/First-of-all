@@ -118,6 +118,14 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
    - *email* : crawat@iitg.ac.in
 
+* [Jayant Jaiswal](https://github.com/jayantjaiswal100)
+   - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, django(learning), jquery
+   - *email* : jayant.jaiswal@iitg.ac.in
+
+* [Kousik Rajesh](https://github.com/kousikr26)
+   - *Frameworks* : Django, HTML, CSS, JS
+   - *email* : kousik18@iitg.ac.in
+
 * [Somya Agrawal](https://github.com/imemya19)
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *email* : somya18@iitg.ac.in
