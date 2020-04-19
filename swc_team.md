@@ -152,3 +152,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Languages* : C/C++, Solidity(Basic)
    - *email* : chirania@iitg.ac.in
 
+* [Shivangi Kumar](https://github.com/amateur29)
+   - *Frameworks* : C, C++, HTML, CSS, Python, Android, Django, JS(learning)
+   - *email* : shivangi18a@iitg.ac.in
