@@ -183,3 +183,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries* : Bootstrap4, Jquery
    - *Frameworks* : Django, Android Studio
 
+* [Vineet Agarwal](https://github.com/vineet140502) 
+   - *Frameworks* : HTML, CSS, JavaScript, Django
+   - *Libraries*  : Bootstrap, Jquery
+   - *email* : vineet.agarwal@iitg.ac.in
