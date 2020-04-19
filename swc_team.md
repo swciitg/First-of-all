@@ -170,5 +170,12 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Languages* : C/C++, Python (ML)
    - *email* : mane3singh@gmail.com
 
+* [Manish Kumar](https://github.com/bangarwa18)
+    - *Frameworks* : HTML, CSS, Bootstrap, Django, Javascript
+    - *email* : bangarwa18@iitg.ac.in
 
-
+* [Sudesh Chaudhary](https://github.com/sudesh1122)
+   - *Languages* : HTML5, CSS, JavaScript, Python3, C/C++,java
+   - *Libraries* : Bootstrap4, Jquery
+   - *Frameworks* : Django, Android Studio
+   - *email* : sudesh18@iitg.ac.in
