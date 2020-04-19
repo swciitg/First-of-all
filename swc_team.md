@@ -165,4 +165,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
    - *email* : sksb2180@gmail.com
 
-
+* [Sudesh Chaudhary](https://github.com/sudesh1122)
+   - *Languages* : HTML5, CSS, JavaScript, Python3, C/C++,java
+   - *Libraries* : Bootstrap4, Jquery
+   - *Frameworks* : Django, Android Studio
+   - *email* : sudesh18@iitg.ac.in
