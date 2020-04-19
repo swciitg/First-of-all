@@ -125,3 +125,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Kousik Rajesh](https://github.com/kousikr26)
    - *Frameworks* : Django, HTML, CSS, JS
    - *email* : kousik18@iitg.ac.in
+
+* [Somya Agrawal](https://github.com/imemya19)
+   - *Frameworks* : HTML, CSS, JavaScript, Django
+   - *email* : somya18@iitg.ac.in
