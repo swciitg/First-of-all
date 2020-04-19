@@ -147,3 +147,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : C,C++,Python(basic),Android studio(just started)
    - *email* : harsh.jaiswal@iitg.ac.in
 
+* [Yug Kansara](https://github.com/ullsee)
+   - *Frameworks* : HTML, CSS, JavaScript, NodeJS(learning)
+   - *Libraries* : Bootstrap, jQuery
+   - *email* : yug@iitg.ac.in   
