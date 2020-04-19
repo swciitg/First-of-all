@@ -165,4 +165,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
    - *email* : sksb2180@gmail.com
 
+* [Maneshwar Singh](https://github.com/maneshwarS)
+   - *Frameworks* : HTML, CSS, Python, NLP*
+   - *Languages* : C/C++, Python (ML)
+   - *email* : mane3singh@gmail.com
+
+
 
