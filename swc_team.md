@@ -165,6 +165,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
    - *email* : sksb2180@gmail.com
 
+* [Raj Kumar] (https://github.com/raj2207)
+  - *Frameworks* : HTML, CSS, Javascript, Python(learning)
+  - *Libraries*  : Bootstrap, Jquery
+   -*Email*    : raj18a@iitg.ac.in
+   
 * [Maneshwar Singh](https://github.com/maneshwarS)
    - *Frameworks* : HTML, CSS, Python, NLP*
    - *Languages* : C/C++, Python (ML)
@@ -178,4 +183,4 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Languages* : HTML5, CSS, JavaScript, Python3, C/C++,java
    - *Libraries* : Bootstrap4, Jquery
    - *Frameworks* : Django, Android Studio
-   - *email* : sudesh18@iitg.ac.in
+
