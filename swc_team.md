@@ -118,10 +118,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
    - *email* : crawat@iitg.ac.in
 
-*[Shashwat Kartikey](https://github.com/ShashwatKartikey)
-  - *Frameworks* : HTML, CSS, Javascript(Basics), Django(Learning)
-  - *Languages* : Python, Java(Moderate)
-  - *email* : kshashwat@iitg.ac.in
+* [Shashwat Kartikey](https://github.com/ShashwatKartikey)
+   - *Frameworks* : HTML, CSS, Javascript(Basics), Django(Learning)
+   - *Languages* : Python, Java(Moderate)
+   - *email* : kshashwat@iitg.ac.in
 
 * [Jayant Jaiswal](https://github.com/jayantjaiswal100) <!-- Working on : placement-portal (front-end,1)--> 
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, django(learning), jquery
