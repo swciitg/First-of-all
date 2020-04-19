@@ -142,3 +142,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Harsh Jaiswal](https://github.com/BlAckbURn07)
    - *Frameworks* : C,C++,Python(basic),Android studio(just started)
    - *email* : harsh.jaiswal@iitg.ac.in
+
+* [Shivangi Kumar](https://github.com/amateur29)
+   - *Frameworks* : C, C++, HTML, CSS, Python, Android, Django, JS(learning)
+   - *email* : shivangi18a@iitg.ac.in
+
