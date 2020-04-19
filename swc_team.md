@@ -147,6 +147,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : C,C++,Python(basic),Android studio(just started)
    - *email* : harsh.jaiswal@iitg.ac.in
 
+* [Yug Kansara](https://github.com/ullsee)
+   - *Frameworks* : HTML, CSS, JavaScript, NodeJS(learning)
+   - *Libraries* : Bootstrap, jQuery
+   - *email* : yug@iitg.ac.in  
+
 * [Manav Chirania](https://github.com/manav-15)
    - *Frameworks* : Truffle, HTML, CSS
    - *Languages* : C/C++, Solidity(Basic)
@@ -159,4 +164,5 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Sumit Kumar Singh](https://github.com/sksb2180)
    - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
    - *email* : sksb2180@gmail.com
+
 
