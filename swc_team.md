@@ -202,7 +202,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : yogesh18a@iitg.ac.in
    
 * [Sanngesh PL](https://github.com/sanngeshiitg)
-   - *Frameworks* : HTML, CSS, Javascript,Django
+   - *Frameworks* : Machine learning, Data Science 
    - *languages*  : Fluent in python,c++,c
    - *email* : sp@iitg.ac.in
    
