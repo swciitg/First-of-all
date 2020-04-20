@@ -69,7 +69,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, django
    - *email* : shital@iitg.ac.in
 
-* [Sanjit Sahu](https://github.com/sanjit30)
+* [Sanjit Sahu](https://github.com/sanjit30) <!--Working on : placement-portal -->
    - *Frameworks* : HTML, CSS, JS, Django
    - *email*      : sanjit18@iitg.ac.in
 
