@@ -200,3 +200,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Yogesh Kumar](https://github.com/yogeshkumar98103) 
    - *Frameworks* : HTML, CSS, JavaScript, NodeJS, React
    - *email* : yogesh18a@iitg.ac.in
+
+* [Devanshi Gupta](https://github.com/devanshi111)
+   - *Frameworks* : HTML, CSS, Django, Android
+   - *email* : devanshig2001@gmail.com
