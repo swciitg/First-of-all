@@ -61,11 +61,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
    - *email* : varhade@iitg.ac.in
 
-* [Ritvika Nandi](https://github.com/ritvikanandi)    
+* [Ritvika Nandi](https://github.com/ritvikanandi)  <!--Working on : swc-courses(2)-->  
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
 
-* [Shital Nandan](https://github.com/Shital102)
+* [Shital Nandan](https://github.com/Shital102)  <!--Working on : swc-courses(2)-->  
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, django
    - *email* : shital@iitg.ac.in
 
@@ -82,12 +82,12 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ashish18a@iitg.ac.in
    - *Languages* : C++, Java
 
-* [Srichandan Dash](https://github.comscdchandan)
+* [Srichandan Dash](https://github.comscdchandan)  
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
 
-* [LOKNATH KUMAR](https://github.com/LOkn7630) 
+* [LOKNATH KUMAR](https://github.com/LOkn7630) <!--Working on : swc-courses(2)-->  
    - *Frameworks* : Django, HTML, CSS, React
    - *email* : loknath@iitg.ac.in
 
