@@ -30,7 +30,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* :HTML, CSS, Django
    - *email* : prathapa@iitg.ac.in
 
-* [Pranjal Chourasia](https://github.com/pranjal5399)
+* [Pranjal Chourasia](https://github.com/pranjal5399)<!--Working on : swc-courses(2)-->
    - *Frameworks* : NodeJs, HTML, CSS, JavaScript
    - *email* : chourasi@iitg.ac.in 
 
@@ -61,7 +61,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
    - *email* : varhade@iitg.ac.in
 
-* [Ritvika Nandi](https://github.com/ritvikanandi)    <!--Working on : swc-courses(2)-->
+* [Ritvika Nandi](https://github.com/ritvikanandi)    
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
 
