@@ -125,7 +125,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 * [Jayant Jaiswal](https://github.com/jayantjaiswal100) <!-- Working on : placement-portal (front-end,1)--> 
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, django(learning), jquery
-   - *email* : jayant.jaiswal@iitg.ac.inis
+   - *email* : jayant.jaiswal@iitg.ac.in
 
 * [Kousik Rajesh](https://github.com/kousikr26) <!-- Working on : placement-portal (2)-->
    - *Frameworks* : Django, HTML, CSS, JS
