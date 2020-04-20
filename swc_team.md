@@ -135,10 +135,14 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *email* : somya18@iitg.ac.in
 
- * [Stuti](https://github.com/stusat)
-    - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
-    - *email* : stuti@iitg.ac.in
+* [Stuti](https://github.com/stusat)
+   - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
+   - *email* : stuti@iitg.ac.in
 
+* [Jagannath](https://github.com/jagannathgujju)
+   - *Frameworks* : HTML, CSS, Bootstrap, JavaScript, jQuery, Django(learning)
+   - *email* : gujju@iitg.ac.in
+    
 * [Sreshth Aggarwal](https://github.com/Sreshth01)
    - *Frameworks* : HTML, CSS, JavaScript, Bootstrap, Django
    - *email* : sreshth2001@gmail.com
@@ -170,9 +174,9 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : sksb2180@gmail.com
 
 * [Raj Kumar](https://github.com/raj2207)
-  - *Frameworks* : HTML, CSS, Javascript, Python(learning)
-  - *Libraries*  : Bootstrap, Jquery
-   -*Email*    : raj18a@iitg.ac.in
+   - *Frameworks* : HTML, CSS, Javascript, Python(learning)
+   - *Libraries*  : Bootstrap, Jquery
+   - *Email*    : raj18a@iitg.ac.in
    
 * [Maneshwar Singh](https://github.com/maneshwarS)
    - *Frameworks* : HTML, CSS, Python, NLP*
@@ -180,8 +184,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : mane3singh@gmail.com
 
 * [Manish Kumar](https://github.com/bangarwa18)
-    - *Frameworks* : HTML, CSS, Bootstrap, Django, Javascript
-    - *email* : bangarwa18@iitg.ac.in
+   - *Frameworks* : HTML, CSS, Bootstrap, Django, Javascript
+   - *email* : bangarwa18@iitg.ac.in
 
 * [Sudesh Chaudhary](https://github.com/sudesh1122) <!--Working on : placement-portal(2)-->
    - *Languages* : HTML5, CSS, JavaScript, Python3, C/C++,java
