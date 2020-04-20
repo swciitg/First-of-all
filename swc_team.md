@@ -87,7 +87,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
 
-* [LOKNATH KUMAR](https://github.com/LOkn7630)
+* [LOKNATH KUMAR](https://github.com/LOkn7630) <!--Working on : swc-website-->
    - *Frameworks* : Django, HTML, CSS, React
    - *email* : loknath@iitg.ac.in
 
@@ -106,7 +106,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Django (learning)
    - *email* : saketkumar@iitg.ac.in
 
-* [Gaurav Mali](https://github.com/gaurav7147)
+* [Gaurav Mali](https://github.com/gaurav7147) <!--Working on : swc-website(Backend)-->
    - *Frameworks* : HTML, CSS, JS, Django
    - *email* : mali18@iitg.ac.in
 
@@ -135,7 +135,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *email* : somya18@iitg.ac.in
 
-* [Stuti](https://github.com/stusat)<!--Working on : swc-website--> 
+* [Stuti](https://github.com/stusat) 
    - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
    - *email* : stuti@iitg.ac.in
 
