@@ -204,3 +204,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Devanshi Gupta](https://github.com/devanshi111)
    - *Frameworks* : HTML, CSS, Django, Android
    - *email* : devanshig2001@gmail.com
+* [Monu Kumar](https://github.com/MonuKumar1)
+  - *Frameworks* : C,Flutter,Dart,Python,HTML
+  - *email* : monukumar@iitg.ac.in
