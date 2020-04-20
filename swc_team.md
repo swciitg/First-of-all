@@ -10,7 +10,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : gandhi18@iitg.ac.in
 
 <!--sample is shown above -->
-* [Shashwat Sharma](https://github.com/Svanazar)   
+* [Shashwat Sharma](https://github.com/Svanazar)   <!--Working on : swc-courses (front-end,1)-->
    - *Frameworks* : NodeJs, HTML, CSS, React(just started)
    - *email* : shashwat.sharma@iitg.ac.in
 
@@ -197,6 +197,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries*  : Bootstrap, Jquery
    - *email* : vineet.agarwal@iitg.ac.in
    
-* [Yogesh Kumar](https://github.com/yogeshkumar98103) <!--Working on : swc-courses (front-end,2)-->
+* [Yogesh Kumar](https://github.com/yogeshkumar98103) 
    - *Frameworks* : HTML, CSS, JavaScript, NodeJS, React
    - *email* : yogesh18a@iitg.ac.in
