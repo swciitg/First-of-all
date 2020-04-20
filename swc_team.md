@@ -196,3 +196,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *Libraries*  : Bootstrap, Jquery
    - *email* : vineet.agarwal@iitg.ac.in
+   
+* [Yogesh Kumar](https://github.com/yogeshkumar98103) 
+   - *Frameworks* : HTML, CSS, JavaScript, NodeJS, React
+   - *email* : yogesh18a@iitg.ac.in
