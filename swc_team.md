@@ -82,7 +82,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ashish18a@iitg.ac.in
    - *Languages* : C++, Java
 
-* [Srichandan Dash](https://github.comscdchandan) <!--Working on : swc-website--> 
+* [Srichandan Dash](https://github.comscdchandan) 
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
@@ -131,11 +131,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Django, HTML, CSS, JS
    - *email* : kousik18@iitg.ac.in
 
-* [Somya Agrawal](https://github.com/imemya19)
+* [Somya Agrawal](https://github.com/imemya19)<!--Working on : swc-website(backend)--> 
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *email* : somya18@iitg.ac.in
 
-* [Stuti](https://github.com/stusat)
+* [Stuti](https://github.com/stusat)<!--Working on : swc-website--> 
    - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
    - *email* : stuti@iitg.ac.in
 
@@ -192,7 +192,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries* : Bootstrap4, Jquery
    - *Frameworks* : Django, Android Studio
 
-* [Vineet Agarwal](https://github.com/vineet140502) 
+* [Vineet Agarwal](https://github.com/vineet140502) <!--Working on : swc-website--> 
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *Libraries*  : Bootstrap, Jquery
    - *email* : vineet.agarwal@iitg.ac.in
