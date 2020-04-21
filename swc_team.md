@@ -224,15 +224,15 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *email* : monukumar@iitg.ac.in
 
 * [Nayanjyoti Deury](https://github.com/10taclex)
-   - *Frameworks* : HTML, JS, Django
-   - *email* : nayan170101042@iitg.ac.in
+  - *Frameworks* : HTML, JS, Django
+  - *email* : nayan170101042@iitg.ac.in
 
-*[Ayush Raj](https://github.com/AyushRajSharma)
-   -*Frameworks* : HTML, CSS, Javascript, Jquery, Bootstrap, Django(learning), Android Studio(learning)
-   - *languages* : python, c, c++
-   - *email* : ayushrajsharma8051@gmail.com
+* [Ayush Raj](https://github.com/AyushRajSharma)
+  - *Frameworks* : HTML, CSS, Javascript, Jquery, Bootstrap, Django(learning), Android Studio(learning)
+  - *languages* : python, c, c++
+  - *email* : ayushrajsharma8051@gmail.com
    
-*[Martand Prakash](https://github.com/Martand123)
-  -*Frameworks*: HTML,CSS,JS,Python
-  -*Email*:martand@iitg.ac.in
+* [Martand Prakash](https://github.com/Martand123)
+  - *Frameworks*: HTML,CSS,JS,Python
+  - *Email*:martand@iitg.ac.in
 
