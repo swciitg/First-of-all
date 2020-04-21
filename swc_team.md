@@ -174,6 +174,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : C, C++, HTML, CSS, Python, Android, Django, JS(learning)
    - *email* : shivangi18a@iitg.ac.in
 
+* [Akshita Jain](https://github.com/akshitajain65)
+   - *Frameworks* : C, C++, Python (ML/DL/NLP)
+   - *email* : akshita@iitg.ac.in
+
 * [Sumit Kumar Singh](https://github.com/sksb2180)
    - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
    - *email* : sksb2180@gmail.com
@@ -224,7 +228,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *languages* : python, c, c++
    - *email* : ayushrajsharma8051@gmail.com
    
-
 *[Martand Prakash](https://github.com/Martand123)
   -*Frameworks*: HTML,CSS,JS,Python
   -*Email*:martand@iitg.ac.in
