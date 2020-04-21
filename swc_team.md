@@ -218,4 +218,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Monu Kumar](https://github.com/MonuKumar1)
   - *Frameworks* : C,Flutter,Dart,Python,HTML
   - *email* : monukumar@iitg.ac.in
+  
+* [Manish Anand](https://github.com/anand170107032)
+  - *Frameworks* : HTML, CSS, Django
+  - *email* : anand170107032@iitg.ac.in
 
