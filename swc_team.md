@@ -155,3 +155,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Shivangi Kumar](https://github.com/amateur29)
    - *Frameworks* : C, C++, HTML, CSS, Python, Android, Django, JS(learning)
    - *email* : shivangi18a@iitg.ac.in
+
+* [Akshita Jain](https://github.com/akshitajain65)
+   - *Frameworks* : C, C++, Python (ML/DL/NLP)
+   - *email* : akshita@iitg.ac.in
