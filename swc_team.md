@@ -82,7 +82,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ashish18a@iitg.ac.in
    - *Languages* : C++, Java
 
-* [Srichandan Dash](https://github.comscdchandan) <!--Working on : swc-website(backend)--> 
+* [Srichandan Dash](https://github.comscdchandan)
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
@@ -148,7 +148,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Bootstrap, JavaScript, jQuery, Django(learning)
    - *email* : gujju@iitg.ac.in
     
-* [Sreshth Aggarwal](https://github.com/Sreshth01)
+* [Sreshth Aggarwal](https://github.com/Sreshth01)<!--Working on : swc-website(backend)--> 
    - *Frameworks* : HTML, CSS, JavaScript, Bootstrap, Django
    - *email* : sreshth2001@gmail.com
 
