@@ -10,7 +10,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : gandhi18@iitg.ac.in
 
 <!--sample is shown above -->
-* [Shashwat Sharma](https://github.com/Svanazar)
+* [Shashwat Sharma](https://github.com/Svanazar)   <!--Working on : swc-courses (front-end,1)-->
    - *Frameworks* : NodeJs, HTML, CSS, React(just started)
    - *email* : shashwat.sharma@iitg.ac.in
 
@@ -30,11 +30,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* :HTML, CSS, Django
    - *email* : prathapa@iitg.ac.in
 
-* [Pranjal Chourasia](https://github.com/pranjal5399)
+* [Pranjal Chourasia](https://github.com/pranjal5399)<!--Working on : swc-courses(2)-->
    - *Frameworks* : NodeJs, HTML, CSS, JavaScript
-   - *email* : chourasi@iitg.ac.in
+   - *email* : chourasi@iitg.ac.in 
 
-* [Sushanth Reddy Manda](https://github.com/SushanthReddyManda)
+* [Sushanth Reddy Manda](https://github.com/SushanthReddyManda)  <!-- Working on : placement-portal (front-end,1) -->
    - *Frameworks* :  HTML, CSS, JavaScript, Django(learning)
    - *Libraries* : Bootstrap, jQuery
    - *email* : m.sushanth@iitg.ac.in
@@ -52,7 +52,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ameyramesh@iitg.ac.in
    - *speciality* : Fluent in Python, C++ & Java
 
-* [Satyendra Dhaka](https://github.com/satyendradhaka)
+* [Satyendra Dhaka](https://github.com/satyendradhaka)   <!--Working on : swc-courses(2)-->
    - *Frameworks* : Express, NodeJs, HTML, CSS, JavaScript
    - *Libraries* : Bootstrap, Jquery
    - *email* : satyendr@iitg.ac.in
@@ -61,15 +61,15 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python(Numpy,Pandas,Scikit-Learn),MATLAB,Android
    - *email* : varhade@iitg.ac.in
 
-* [Ritvika Nandi](https://github.com/ritvikanandi)
+* [Ritvika Nandi](https://github.com/ritvikanandi)  <!--Working on : swc-courses(2)-->  
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : ritvika@iitg.ac.in
 
-* [Shital Nandan](https://github.com/Shital102)
+* [Shital Nandan](https://github.com/Shital102)  <!--Working on : swc-courses(2)-->  
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, django
    - *email* : shital@iitg.ac.in
 
-* [Sanjit Sahu](https://github.com/sanjit30)
+* [Sanjit Sahu](https://github.com/sanjit30) <!--Working on : placement-portal -->
    - *Frameworks* : HTML, CSS, JS, Django
    - *email*      : sanjit18@iitg.ac.in
 
@@ -82,18 +82,23 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ashish18a@iitg.ac.in
    - *Languages* : C++, Java
 
-* [Srichandan Dash](https://github.comscdchandan)
+* [Srichandan Dash](https://github.comscdchandan) 
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
 
-* [LOKNATH KUMAR](https://github.com/LOkn7630)
+* [LOKNATH KUMAR](https://github.com/LOkn7630) <!--Working on : swc-website-->
    - *Frameworks* : Django, HTML, CSS, React
    - *email* : loknath@iitg.ac.in
 
 * [Sachit Kalia](https://github.com/Sachit-Kalia)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : bornon1999@gmail.com
+   
+ * [Meka Chandrahaas Pavan Surya](https://github.com/chp2000)
+   - *Frameworks*: HTML , CSS , JavaScript, django(learning)
+   - *Libraries* : Bootstrap, Jquery
+   - *email*  : chandrah@iitg.ac.in  
 
 * [Abbas Tailor](https://github.com/taylor-abbas)
    - *Frameworks* : HTML , CSS (Basic) , JavaScript (Basic) , Bootstrap , Django (Learning)
@@ -106,7 +111,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Django (learning)
    - *email* : saketkumar@iitg.ac.in
 
-* [Gaurav Mali](https://github.com/gaurav7147)
+* [Gaurav Mali](https://github.com/gaurav7147) <!--Working on : swc-website(Backend)-->
    - *Frameworks* : HTML, CSS, JS, Django
    - *email* : mali18@iitg.ac.in
 
@@ -114,27 +119,35 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JS, Django(Learning)
    - *email* : udahiya@iitg.ac.in
 
-* [Chelsi Rawat](https://github.com/chelsi-001011)
+* [Chelsi Rawat](https://github.com/chelsi-001011) 
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, Jquery(learning), NodeJS(will begin)
    - *email* : crawat@iitg.ac.in
 
+* [Shashwat Kartikey](https://github.com/ShashwatKartikey)
+   - *Frameworks* : HTML, CSS, Javascript(Basics), Django(Learning)
+   - *Languages* : Python, Java(Moderate)
+   - *email* : kshashwat@iitg.ac.in
 
-* [Jayant Jaiswal](https://github.com/jayantjaiswal100)
+* [Jayant Jaiswal](https://github.com/jayantjaiswal100) <!-- Working on : placement-portal (front-end,1)--> 
    - *Frameworks* : HTML, CSS, JavaScript(Basics), Bootstrap, django(learning), jquery
    - *email* : jayant.jaiswal@iitg.ac.in
 
-* [Kousik Rajesh](https://github.com/kousikr26)
+* [Kousik Rajesh](https://github.com/kousikr26) <!-- Working on : placement-portal (2)-->
    - *Frameworks* : Django, HTML, CSS, JS
    - *email* : kousik18@iitg.ac.in
 
-* [Somya Agrawal](https://github.com/imemya19)
+* [Somya Agrawal](https://github.com/imemya19)<!--Working on : swc-website(backend)--> 
    - *Frameworks* : HTML, CSS, JavaScript, Django
    - *email* : somya18@iitg.ac.in
 
- * [Stuti](https://github.com/stusat)
-    - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
-    - *email* : stuti@iitg.ac.in
+* [Stuti](https://github.com/stusat) 
+   - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
+   - *email* : stuti@iitg.ac.in
 
+* [Jagannath](https://github.com/jagannathgujju)
+   - *Frameworks* : HTML, CSS, Bootstrap, JavaScript, jQuery, Django(learning)
+   - *email* : gujju@iitg.ac.in
+    
 * [Sreshth Aggarwal](https://github.com/Sreshth01)
    - *Frameworks* : HTML, CSS, JavaScript, Bootstrap, Django
    - *email* : sreshth2001@gmail.com
@@ -146,6 +159,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Harsh Jaiswal](https://github.com/BlAckbURn07)
    - *Frameworks* : C,C++,Python(basic),Android studio(just started)
    - *email* : harsh.jaiswal@iitg.ac.in
+
+* [Yug Kansara](https://github.com/ullsee) 
+   - *Frameworks* : HTML, CSS, JavaScript, NodeJS(learning)
+   - *Libraries* : Bootstrap, jQuery
+   - *email* : yug@iitg.ac.in  
 
 * [Manav Chirania](https://github.com/manav-15)
    - *Frameworks* : Truffle, HTML, CSS
@@ -159,3 +177,57 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Akshita Jain](https://github.com/akshitajain65)
    - *Frameworks* : C, C++, Python (ML/DL/NLP)
    - *email* : akshita@iitg.ac.in
+
+* [Sumit Kumar Singh](https://github.com/sksb2180)
+   - *Frameworks* : HTML, CSS, Python, Django, Bootstrap, Javascript
+   - *email* : sksb2180@gmail.com
+
+* [Raj Kumar](https://github.com/raj2207)
+   - *Frameworks* : HTML, CSS, Javascript, Python(learning)
+   - *Libraries*  : Bootstrap, Jquery
+   - *Email*    : raj18a@iitg.ac.in
+   
+* [Maneshwar Singh](https://github.com/maneshwarS)
+   - *Frameworks* : HTML, CSS, Python, NLP*
+   - *Languages* : C/C++, Python (ML)
+   - *email* : mane3singh@gmail.com
+
+* [Manish Kumar](https://github.com/bangarwa18)
+   - *Frameworks* : HTML, CSS, Bootstrap, Django, Javascript
+   - *email* : bangarwa18@iitg.ac.in
+
+* [Sudesh Chaudhary](https://github.com/sudesh1122) <!--Working on : placement-portal(2)-->
+   - *Languages* : HTML5, CSS, JavaScript, Python3, C/C++,java
+   - *Libraries* : Bootstrap4, Jquery
+   - *Frameworks* : Django, Android Studio
+
+* [Vineet Agarwal](https://github.com/vineet140502) <!--Working on : swc-website--> 
+   - *Frameworks* : HTML, CSS, JavaScript, Django
+   - *Libraries*  : Bootstrap, Jquery
+   - *email* : vineet.agarwal@iitg.ac.in
+   
+* [Yogesh Kumar](https://github.com/yogeshkumar98103)  <!-- Working on : swc-website -->
+   - *Frameworks* : HTML, CSS, JavaScript, NodeJS, React
+   - *email* : yogesh18a@iitg.ac.in
+   
+* [Sanngesh PL](https://github.com/sanngeshiitg)
+   - *Frameworks* : Machine learning, Data Science 
+   - *languages*  : Fluent in python,c++,c
+   - *email* : sp@iitg.ac.in
+
+* [Devanshi Gupta](https://github.com/devanshi111)
+   - *Frameworks* : HTML, CSS, Django, Android
+   - *email* : devanshig2001@gmail.com
+
+* [Monu Kumar](https://github.com/MonuKumar1)
+  - *Frameworks* : C,Flutter,Dart,Python,HTML
+  - *email* : monukumar@iitg.ac.in
+  
+*[Ayush Raj](https://github.com/AyushRajSharma)
+   -*Frameworks* : HTML, CSS, Javascript, Jquery, Bootstrap, Django(learning), Android Studio(learning)
+   - *languages* : python, c, c++
+   - *email* : ayushrajsharma8051@gmail.com
+   
+*[Martand Prakash](https://github.com/Martand123)
+  -*Frameworks*: HTML,CSS,JS,Python
+  -*Email*:martand@iitg.ac.in
