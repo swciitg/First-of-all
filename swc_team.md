@@ -236,3 +236,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *Frameworks*: HTML,CSS,JS,Python
   - *Email*:martand@iitg.ac.in
 
+* [Prakhar Seth](https://github.com/seth-orai)
+   - *Frameworks* :HTML, CSS, Django
+   - *email* : prakh170107047@iitg.ac.in
+
