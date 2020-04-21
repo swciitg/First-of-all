@@ -219,3 +219,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *Frameworks* : C,Flutter,Dart,Python,HTML
   - *email* : monukumar@iitg.ac.in
 
+* [Nayanjyoti Deury](https://github.com/10taclex)
+   - *Frameworks* : HTML, JS, Django
+   - *email* : nayan170101042@iitg.ac.in
+
+
