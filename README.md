@@ -1,5 +1,6 @@
 <img align="centre" width="100%" src="assets/icon1.jpeg">
 
+[<img align="right" width="150" src="assets/discord.png">](https://discord.gg/HCdctrz)
 # First Contributions
 
 How can we be locked down when we have an infinite things to learn? We will make our first imprint in "Build From Home" module by coping up with github.
