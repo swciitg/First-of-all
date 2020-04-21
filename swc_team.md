@@ -94,6 +94,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Sachit Kalia](https://github.com/Sachit-Kalia)
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : bornon1999@gmail.com
+   
+ * [Meka Chandrahaas Pavan Surya](https://github.com/chp2000)
+   - *Frameworks*: HTML , CSS , JavaScript, django(learning)
+   - *Libraries* : Bootstrap, Jquery
+   - *email*  : chandrah@iitg.ac.in  
 
 * [Abbas Tailor](https://github.com/taylor-abbas)
    - *Frameworks* : HTML , CSS (Basic) , JavaScript (Basic) , Bootstrap , Django (Learning)
@@ -209,3 +214,4 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Devanshi Gupta](https://github.com/devanshi111)
    - *Frameworks* : HTML, CSS, Django, Android
    - *email* : devanshig2001@gmail.com
+
