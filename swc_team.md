@@ -220,6 +220,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *email* : monukumar@iitg.ac.in
   
 * [Manish Anand](https://github.com/anand170107032)
-  - *Frameworks* : HTML, CSS, Django
+  - *Frameworks* : HTML, CSS, Django (learning)
   - *email* : anand170107032@iitg.ac.in
 
