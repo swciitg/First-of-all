@@ -236,3 +236,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *Frameworks*: HTML,CSS,JS,Python
   - *Email*:martand@iitg.ac.in
 
+* [Aryan Verma](https://github.com/i-aryan)
+   - *Frameworks* : HTML, CSS, Bootstrap, Django, JavaScript, jQuery, Python
+   - *email* : aryan.verma@iitg.ac.in
+
