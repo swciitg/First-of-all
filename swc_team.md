@@ -219,3 +219,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *Frameworks* : C,Flutter,Dart,Python,HTML
   - *email* : monukumar@iitg.ac.in
 
+*[Martand Prakash](https://github.com/Martand123)
+  -*Frameworks*: HTML,CSS,JS,Python
+  -*Email*:martand@iitg.ac.in
