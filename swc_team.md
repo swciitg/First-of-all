@@ -47,7 +47,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML , CSS , JS , Django
    - *email* : samaksh@iitg.ac.in
 
-* [Amey Rambatla](https://github.com/Ameybot)
+* [Amey Rambatla](https://github.com/Ameybot) <!-- shodh -->
    - *Frameworks* : Django, HTML, CSS, Ruby
    - *email* : ameyramesh@iitg.ac.in
    - *speciality* : Fluent in Python, C++ & Java
@@ -82,7 +82,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *email* : ashish18a@iitg.ac.in
    - *Languages* : C++, Java
 
-* [Srichandan Dash](https://github.comscdchandan)
+* [Srichandan Dash](https://github.comscdchandan)<!--shodh -->
    - *Libraries* : Bootstrap, Jquery
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript, Flutter, AndroidStudio, django
    - *email* :srichand@iitg.ac.in
@@ -95,7 +95,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML , CSS , JavaScript
    - *email* : bornon1999@gmail.com
    
- * [Meka Chandrahaas Pavan Surya](https://github.com/chp2000)
+ * [Meka Chandrahaas Pavan Surya](https://github.com/chp2000)<!-- shodh -->
    - *Frameworks*: HTML , CSS , JavaScript, django(learning)
    - *Libraries* : Bootstrap, Jquery
    - *email*  : chandrah@iitg.ac.in  
@@ -148,7 +148,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Django(learning), JS(will learn)
    - *email* : stuti@iitg.ac.in
 
-* [Jagannath](https://github.com/jagannathgujju)
+* [Jagannath](https://github.com/jagannathgujju) <!-- shodh -->
    - *Frameworks* : HTML, CSS, Bootstrap, JavaScript, jQuery, Django(learning)
    - *email* : gujju@iitg.ac.in
     
@@ -156,7 +156,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JavaScript, Bootstrap, Django
    - *email* : sreshth2001@gmail.com
 
-* [Naman Goyal](https://github.com/Whistler27)
+* [Naman Goyal](https://github.com/Whistler27) <!-- shodh -->
    - *Frameworks* : Django, HTML, CSS, PHP, Bootstrap, JS(will learn)
    - *email* : naman18@iitg.ac.in
 
@@ -248,7 +248,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* :HTML, CSS, Django
    - *email* : prakh170107047@iitg.ac.in
 
-* [Aryan Verma](https://github.com/i-aryan)
+* [Aryan Verma](https://github.com/i-aryan) <!-- shodh -->
    - *Frameworks* : HTML, CSS, Bootstrap, Django, JavaScript, jQuery, Python
    - *email* : aryan.verma@iitg.ac.in
 
