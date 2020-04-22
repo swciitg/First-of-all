@@ -244,6 +244,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *Frameworks*: HTML,CSS,JS,Python
   - *Email*:martand@iitg.ac.in
 
+* [Gaurav Agarwal](https://github.com/gaurav7019)
+  - *Frameworks*: HTML,CSS,ML,DL,NLP
+  - *Email*:gaurav18e@iitg.ac.in
+
 * [Pranav Rajvanshi](https://github.com/pranavrajvanshi)
    - *Framework* : HTML,css,nodejs(learning)
    - *Email* : rajvansh@iitg.ac.in
