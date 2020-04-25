@@ -260,3 +260,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Framework* : HTML,CSS,Django,python
    - *Libraries*  : Bootstrap, Jquery
    - *Email* : shivang18@iitg.ac.in
+
+* [Atharva Shrawge](https://github.com/haxer-max)
+   - *Frameworks* : HTML, CSS, Django, Bootstrap, Javascript
+   - *email* : a.shrawge@iitg.ac.in
+
