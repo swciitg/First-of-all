@@ -14,11 +14,11 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : NodeJs, HTML, CSS, React(just started)
    - *email* : shashwat.sharma@iitg.ac.in
 
-* [Ripunjoy Medhi](https://github.com/ripun170107053)
+* [Ripunjoy Medhi](https://github.com/ripun170107053). <!--Working on : resume generator-->
    - *Frameworks* : Django,HTML,JS,CSS
    - *email* : ripun170107053@iitg.ac.in
 
-* [Panindra reddy](https://github.com/panindra-ai)
+* [Panindra reddy](https://github.com/panindra-ai). <!--Working on : resume generator-->
    - *Frameworks* : HTML,CSS,JS,Django
    - *email* : vajrala@iitg.ac.in
 
@@ -26,7 +26,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Flutter , Dart ,Javascript
    - *email* : anjali18a@iitg.ac.in
 
-* [Prathapani Sravya](https://github.com/sravya27082001)
+* [Prathapani Sravya](https://github.com/sravya27082001). <!--Working on : resume generator-->
    - *Frameworks* :HTML, CSS, Django
    - *email* : prathapa@iitg.ac.in
 
@@ -43,7 +43,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Languages* : C, C++, Python(ML)
    - *email* : agarwal18d@iitg.ac.in
 
-* [Samaksh Tak](https://github.com/samaksh1)
+* [Samaksh Tak](https://github.com/samaksh1). <!--Working on : resume generator-->
    - *Frameworks* : HTML , CSS , JS , Django
    - *email* : samaksh@iitg.ac.in
 
@@ -73,7 +73,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JS, Django
    - *email*      : sanjit18@iitg.ac.in
 
-* [Anket Kotkar](https://github.com/ask7276)
+* [Anket Kotkar](https://github.com/ask7276).  <!--Working on : resume generator-->
    - *Frameworks* : Django, HTML, CSS, JS(learning)
    - *email* : anket@iitg.ac.in
 
@@ -119,7 +119,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, JS, Django
    - *email* : mali18@iitg.ac.in
 
-* [Upender Dahiya](https://github.com/Dahiya27)
+* [Upender Dahiya](https://github.com/Dahiya27) <!--Working on : resume generator-->
    - *Frameworks* : HTML, CSS, JS, Django(Learning)
    - *email* : udahiya@iitg.ac.in
 
