@@ -265,3 +265,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Django, Bootstrap, Javascript
    - *email* : a.shrawge@iitg.ac.in
 
+* [Manish Chandolia](https://github.com/mchandolia)
+   - *Frameworks* : HTML, CSS, Javascript, Django(learning)
+   - *Libraries*  : Bootstrap, jQuery(learning)
+   - *languages* : Python, C++
+   - *email* : chandoli@iitg.ac.in
