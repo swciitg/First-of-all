@@ -274,3 +274,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Libraries*  : Bootstrap, jQuery(learning)
    - *languages* : Python, C++
    - *email* : chandoli@iitg.ac.in
+
+* [Siddhant Jagtap](https://github.com/Siddhant-19) 
+   - *Frameworks* : Python,C,C++,MATLAB,ML,DL
+   - *email* : siddhant18@iitg.ac.in
+
+
+   
