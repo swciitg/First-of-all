@@ -279,5 +279,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [Karan Jain](https://github.com/kjain333)
+   - *Frameworks* : Flutter, Android Studio, Nodejs(learning)
+   - *email* : kjain@iitg.ac.in
+
+
 
    
