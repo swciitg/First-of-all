@@ -279,5 +279,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [Ayush Kumar Gupta](https://github.com/Ayush3401)
+   - *Frameworks* : HTML, CSS, Bootstrap, Javascript, NodeJs(Learning)
+   - *email* : ayush2001@iitg.ac.in
 
    
