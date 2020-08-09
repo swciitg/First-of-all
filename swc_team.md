@@ -268,6 +268,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Eklavya Jain](https://github.com/eklavyaj)
    - *Frameworks* : HTML, CSS, Bootstrap, jQuery, Django(ongoing)
    - *email* : eklavya@iitg.ac.in
+   
+* [Karingala Suraj Raj](https://github.com/Suraj3579)
+   - *Frameworks* : HTML, CSS, Bootstrap, js, Django, Android Studio
+   - *email* : karingal@iitg.ac.in
 
 * [Manish Chandolia](https://github.com/mchandolia)
    - *Frameworks* : HTML, CSS, Javascript, Django(learning)
