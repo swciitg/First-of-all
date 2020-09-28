@@ -279,5 +279,6 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
-   
+* [Pranjali Jadkar](https://github.com/pranjalijadkar01)
+   - *Frameworks* : HTML, CSS, Javascript(Basics), Bootstrap, nodejs(learning)
+   - *email* : pjadkar@iitg.ac.in
