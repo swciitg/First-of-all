@@ -220,8 +220,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
   - *email* : monukumar@iitg.ac.in
   
 *[Ayush Raj](https://github.com/AyushRajSharma)
-   -*Frameworks* : HTML, CSS, Javascript, Jquery, Bootstrap, Django(learning), Android Studio(learning)
-   - *languages* : python, c, c++
+   - *Frameworks* : HTML, CSS, Javascript, Jquery, Bootstrap, React, Django(frontend and backend), Android and IOS App development with flutter(certified by TheAppBrewery)
+   - *languages* : python, c, c++, dart
    - *email* : ayushrajsharma8051@gmail.com
    
 
