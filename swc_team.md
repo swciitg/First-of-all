@@ -279,5 +279,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+*[Nupur Gaikwad](https://github.com/Gnupur)
+    -*Frameworks* : HTML ,CSS ,Javascript , node.js(learning), django(learning)
+    -*Languages*  :Python 
+    -*email* : gnupur@iitg.ac.in
+
 
    
