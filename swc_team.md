@@ -279,5 +279,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Debarshi Chanda](https://github.com/DebarshiChanda)
+   - *Frameworks* : HTML, CSS (Basic), Flask, Bootstrap, ML, DL
+   - *Languages* : Python, C/C++
+   - *email* : dchanda@iitg.ac.in
    
