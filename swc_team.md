@@ -279,5 +279,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Pranshu Dahiya](https://github.com/PDahiya123) <!--Campus Google-->
+   - *Frameworks* : Machine Learning, HTML, CSS, Javascript
+     *languages* : Python, C++ , C
+   - *email* : pdahiya@iitg.ac.in
    
