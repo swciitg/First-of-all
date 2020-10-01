@@ -279,5 +279,9 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [Teja Sai Srikar bodavula](https://github.com/Srikar403)
+	-*Frameworks* : HTML, CSS ,python
+	-*email* : bteja@iitg.ac.in
+
 
    
