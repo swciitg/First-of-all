@@ -279,5 +279,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
-   
+* [Saaketh Gunti](https://github.com/sgunti137)
+   -*Frameworks* : CSS, Javascript.
+   -*Languages*  : C++,C,Python.
+   -*Libraries*  : STL.
+   -*email*      : sgunti@iit.ac.in
