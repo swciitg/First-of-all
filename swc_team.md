@@ -279,5 +279,9 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [pathlavath srikanth](https://github.com/srikanth9381) 
+   - *Frameworks* : Python,C,C++,MATLAB,ML,DL
+   - *email* : psrikanth@iitg.ac.in
+
 
    
