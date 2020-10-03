@@ -279,5 +279,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [Arjun Dey](https://github.com/arjundey01)
+   - *Frameworks* : HTML, CSS, Unity, Node.js(learning)
+   - *Languages* : C++,Python
+   - *email* : arjundey@iitg.ac.in
+
 
    
