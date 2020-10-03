@@ -279,7 +279,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-*[Reshma Avvaru](https://github.com/reshma-avvaru)
+* [Reshma Avvaru](https://github.com/reshma-avvaru)
    -*Languages*:C++,Python,Java,JS,dart,HTML5,TypeScript,CSS
    -*Libraries*:Bootstrap, JQuery
    -*Frameworks*:Angular,Flutter,Ionic,NodeJS
