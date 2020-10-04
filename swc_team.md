@@ -278,6 +278,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 * [Siddhant Jagtap](https://github.com/Siddhant-19) 
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
+* [Saransh](https://github.com/mittal-123)
+  - *Frameworks* : Html,Css,Django(learning)
+  - *email* : saransh.mittal@iitg.ac.in
+  
 
 
    
