@@ -279,7 +279,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
    
-* [Sindhu Chittala](https://github.com/Sindhu-321]
+* [Sindhu Chittala](https://github.com/Sindhu-321)
    - *Frameworks* : HTML,CSS,JAVASCRIPT,DJANGO,BOOTSTRAP{willing to work on the mentioned frameworks]
    - *languages* : C,C++,Python
    - *email* : c.venkata@iitg.ac.in
