@@ -273,11 +273,16 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : HTML, CSS, Javascript, Django(learning)
    - *Libraries*  : Bootstrap, jQuery(learning)
    - *languages* : Python, C++
-   - *email* : chandoli@iitg.ac.in
+   - *email* : chandoli@iitg.ac.in 
 
 * [Siddhant Jagtap](https://github.com/Siddhant-19) 
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
+   
+* [Sindhu Chittala](https://github.com/Sindhu-321]
+   - *Frameworks* : HTML,CSS,JAVASCRIPT,DJANGO,BOOTSTRAP{willing to work on the mentioned frameworks]
+   - *languages* : C,C++,Python
+   - *email* : c.venkata@iitg.ac.in
 
 
    
