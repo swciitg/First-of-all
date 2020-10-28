@@ -281,5 +281,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
 
 * [Venkat Vikas](https://github.com/vikas-4402)
   -*Languages* : C ,Python,Javascript
+  -*Frameworks* : Nodejs, Django,HTML,CSS,BOOTSTRAP,JQUERY
+  -*Frontend UI* : React
   -*email* : chekkapalli.venkat@iitg.ac.in
    
