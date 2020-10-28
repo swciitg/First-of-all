@@ -279,5 +279,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Venkat Vikas](https://github.com/vikas-4402)
+  -*Languages* : C ,Python,Javascript
+  -*email* : chekkapalli.venkat@iitg.ac.in
    
