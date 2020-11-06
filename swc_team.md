@@ -279,5 +279,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Franchis N. Saikia](https://github.com/Francode007) 
+   - *Frameworks* : Django, Flutter, ML/DL
+   - *Languages* : Python, C++, C
+   - *email* : fn@iitg.ac.in
    
