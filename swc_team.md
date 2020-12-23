@@ -279,5 +279,8 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [Anmol Abhay Jain](https://github.com/anmoljain13)  
+   - *Framework* : HTML,css,nodejs(learning),Python(ml, dl)
+   - *Email* : a.anmol@iitg.ac.in
 
    
