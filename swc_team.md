@@ -279,5 +279,10 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
+* [Tanishka Gaur](https://github.com/tanishkaa31)
+   - *Frameworks* : Rasa, ML, DL, ReactNative(learning)
+   - *Languages*  : C,C++,Python
+   - *Email*      : tgaur@iitg.ac.in
+
 
    
