@@ -279,5 +279,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Atharva Tagalpallewar](https://github.com/Atharvat)
+   - *Frameworks* : Node.js, React, Android Native, Javascipt, Python
+   - *email* : p.tagalpallewar@iitg.ac.in
    
