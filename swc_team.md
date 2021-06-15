@@ -279,5 +279,7 @@ Introduce Yourself here, Tell us about your speciality, what framework you would
    - *Frameworks* : Python,C,C++,MATLAB,ML,DL
    - *email* : siddhant18@iitg.ac.in
 
-
+* [Jash Desai](https://github.com/snerz13)
+   - *Frameworks* : C,C++
+   - *email* : j.desai@iitg.ac.in
    
